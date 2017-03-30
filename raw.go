@@ -1,5 +1,5 @@
 package easyjson
-
+// test
 import (
 	"github.com/mailru/easyjson/jlexer"
 	"github.com/mailru/easyjson/jwriter"
